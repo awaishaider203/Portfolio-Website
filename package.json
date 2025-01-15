@@ -1,0 +1,13 @@
+{
+    "name": "portfolio-website",
+    "version": "1.0.0",
+    "description": "A multi-page static portfolio website",
+    "main": "index.js",
+    "scripts": {
+        "start": "echo 'No start script specified'",
+        "test": "echo 'No test specified'"
+    },
+    "author": "Awais Haider",
+    "license": "MIT",
+    "keywords": []
+}
